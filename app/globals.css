@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+:root {
+  --color-canvas: #f6f0e9;
+  --color-canvas-strong: #ebe2d6;
+  --color-card: #f4ece0;
+  --color-card-strong: #fff8f1;
+  --color-forest: #355847;
+  --color-forest-strong: #274438;
+  --color-sage: #8ba38b;
+  --color-clay: #b96b4d;
+  --color-clay-strong: #9d573d;
+  --color-ink: #221b16;
+  --color-ink-soft: #64584f;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body), sans-serif;
+  background:
+    radial-gradient(circle at top left, rgba(185, 107, 77, 0.08), transparent 26%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0)),
+    var(--color-canvas);
+}
+
+.font-display {
+  font-family: var(--font-display), serif;
+}
+
+.field {
+  width: 100%;
+  border-radius: 1.1rem;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  background: rgba(255, 255, 255, 0.96);
+  padding: 0.95rem 1rem;
+  color: var(--color-ink);
+  outline: none;
+  transition: border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.field::placeholder {
+  color: #8d7d72;
+}
+
+.field:focus {
+  border-color: rgba(185, 107, 77, 0.95);
+  box-shadow: 0 0 0 4px rgba(185, 107, 77, 0.18);
+}
+
+::selection {
+  background: rgba(185, 107, 77, 0.2);
+}

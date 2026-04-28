@@ -1,0 +1,13 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#EFE2D6"/>
+  <rect x="60" y="60" width="780" height="980" rx="48" fill="#FFF8F1"/>
+  <circle cx="450" cy="380" r="144" fill="#D7B39A"/>
+  <path d="M298 428C306 330 373 258 450 258C527 258 594 330 602 428" fill="#4B362C"/>
+  <circle cx="398" cy="380" r="14" fill="#221B16"/>
+  <circle cx="502" cy="380" r="14" fill="#221B16"/>
+  <path d="M401 454C427 474 473 474 499 454" stroke="#B96B4D" stroke-width="10" stroke-linecap="round"/>
+  <path d="M245 796C264 644 332 566 450 566C568 566 636 644 655 796V927H245V796Z" fill="#355847"/>
+  <rect x="154" y="112" width="302" height="74" rx="37" fill="#E7D5C5"/>
+  <text x="196" y="158" fill="#355847" font-family="Arial, sans-serif" font-size="28" font-weight="700">Portrait Placeholder</text>
+  <text x="171" y="994" fill="#64584F" font-family="Arial, sans-serif" font-size="26">Use an approved Marija portrait here</text>
+</svg>

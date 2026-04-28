@@ -1,0 +1,10 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#EDE1D2"/>
+  <rect x="50" y="50" width="1100" height="800" rx="40" fill="#FFF8F1"/>
+  <rect x="112" y="486" width="976" height="250" rx="32" fill="#7BA5B4"/>
+  <path d="M115 513C220 448 334 418 428 426C517 434 574 485 669 488C789 491 906 416 1084 294V735H115V513Z" fill="#355847"/>
+  <path d="M796 308L847 204L898 308H796Z" fill="#D4C3AD"/>
+  <rect x="834" y="308" width="26" height="112" fill="#D4C3AD"/>
+  <circle cx="907" cy="184" r="60" fill="#F8E0B7"/>
+  <text x="128" y="170" fill="#355847" font-family="Arial, sans-serif" font-size="42" font-weight="700">Ohrid Placeholder</text>
+</svg>

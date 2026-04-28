@@ -1,0 +1,9 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#EBE1D3"/>
+  <rect x="52" y="52" width="1096" height="796" rx="40" fill="#FFF8F1"/>
+  <path d="M122 706L346 354L510 620L661 394L911 706H122Z" fill="#355847"/>
+  <path d="M152 706L346 432L498 628L661 470L882 706H152Z" fill="#7C917E"/>
+  <path d="M515 706L661 470L823 706H515Z" fill="#B96B4D" fill-opacity="0.65"/>
+  <circle cx="921" cy="207" r="68" fill="#F8E0B7"/>
+  <text x="130" y="174" fill="#355847" font-family="Arial, sans-serif" font-size="42" font-weight="700">Mountains Placeholder</text>
+</svg>

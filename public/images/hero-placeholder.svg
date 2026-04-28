@@ -1,0 +1,18 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" fill="#E8DDCE"/>
+  <rect x="72" y="72" width="1056" height="1256" rx="48" fill="url(#paint0_linear)"/>
+  <path d="M151 1018C278 851 382 773 487 785C595 797 654 917 744 932C844 949 927 834 1050 633V1328H151V1018Z" fill="#355847" fill-opacity="0.82"/>
+  <path d="M158 957C263 827 363 760 454 760C583 760 666 900 757 900C859 900 949 786 1054 603V1328H158V957Z" fill="#6F8A79" fill-opacity="0.78"/>
+  <circle cx="900" cy="314" r="115" fill="#F8E0B7"/>
+  <path d="M214 514C340 386 460 323 595 325C718 327 822 394 992 534" stroke="#B96B4D" stroke-width="16" stroke-linecap="round"/>
+  <rect x="156" y="124" width="284" height="86" rx="43" fill="#FFF8F1" fill-opacity="0.88"/>
+  <text x="198" y="178" fill="#355847" font-family="Arial, sans-serif" font-size="32" font-weight="700">Hero Placeholder</text>
+  <text x="156" y="1180" fill="#FFF8F1" font-family="Arial, sans-serif" font-size="44" font-weight="700">North Macedonia</text>
+  <text x="156" y="1238" fill="#FFF8F1" font-family="Arial, sans-serif" font-size="26">Replace with approved hero photo later</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="152" y1="96" x2="1099" y2="1276" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8F1"/>
+      <stop offset="1" stop-color="#D7C7B2"/>
+    </linearGradient>
+  </defs>
+</svg>
